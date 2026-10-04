@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Audio recordings and generated output
+*.m4a
+*.wav
+*.mp3
+transcript.txt
+
+# Secrets (for when you add API keys later)
+.env
