@@ -38,7 +38,7 @@ Everything runs on your own machine. No cloud services or API keys are needed.
 
 ```bash
 sudo apt install ffmpeg libportaudio2
-git clone https://github.com/<your-username>/friday.git
+git clone https://github.com/Arj052/friday.git
 cd friday
 python3 -m venv venv
 source venv/bin/activate
